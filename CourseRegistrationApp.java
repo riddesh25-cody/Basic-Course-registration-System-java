@@ -229,4 +229,4 @@ public class CourseRegistrationApp extends JFrame {
             new CourseRegistrationApp().setVisible(true);
         });
     }
-}
+}               
